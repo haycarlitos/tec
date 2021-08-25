@@ -7,7 +7,9 @@ En este script de R encontrarás algunos de los paquetes que me hubiera gustado 
 
 El código lo estaré comentando conforme me de tiempo. 
 
-Me dará mucho gusto ver forks donde inicies un nuevo proyecto a partir de éste o aceptar tus pull request que contribuyan a mejorar el código.
+Me dará mucho gusto ver forks donde inicies un nuevo proyecto a partir de éste o aceptar tus pull request que contribuyan a mejorar el código. 
+
+Cualquier duda, no dudes en escribirme a carlos.castillo@lytica.ai
 
 Los paquetes que vemos son:
 
