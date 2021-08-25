@@ -43,7 +43,7 @@ Para hacer dashboards usando un template más estructurado
 
 https://rstudio.github.io/shinydashboard/
 
-### LEAFLET
+### Leaflet
 
 Para hacer mapas
 
