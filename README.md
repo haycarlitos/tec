@@ -35,19 +35,19 @@ Para hacer dashboards
 
 https://shiny.rstudio.com/
 
-# Shiny dashboard
+### Shiny dashboard
 
 Para hacer dashboards usando un template más estructurado
 
 https://rstudio.github.io/shinydashboard/
 
-# LEAFLET
+### LEAFLET
 
 Para hacer mapas
 
 https://rstudio.github.io/leaflet/
 
-# RMySQL
+### RMySQL
 
 Para conectarte con bases de datos SQL
 
